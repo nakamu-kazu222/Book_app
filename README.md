@@ -10,7 +10,7 @@ git clone https://github.com/nakamu-kazu222/Book_app.git
 
 - `books_app`ディレクトリに移動
 ```
-cd Books_app
+cd Book_app
 ```
 
 - bundler を使用して Gem をインストール
