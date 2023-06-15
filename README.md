@@ -5,7 +5,7 @@
 ## アプリケーションを立ち上げるための手順
 - リポジトリをローカル環境にコピー
 ```
-git clone https://github.com/nakamu-kazu222/Books_app.git
+git clone https://github.com/nakamu-kazu222/Book_app.git
 ```
 
 - `books_app`ディレクトリに移動
